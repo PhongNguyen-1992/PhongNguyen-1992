@@ -1,7 +1,7 @@
 <!-- Dark Neon Profile by Phong Nguyen -->
 
 <p align="center">
-  <img src="https://github.com/PhongNguyen-1992/PhongNguyen-1992/blob/main/banner.png" alt="Phong Nguyen banner" />
+  <img src="https://github.com/PhongNguyen-1992/PhongNguyen-1992/blob/main/avatar.png" alt="Phong Nguyen Avatar" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
