@@ -1,10 +1,8 @@
 <!-- Dark Neon Profile by Phong Nguyen -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Phong+Nguyen;💻+Front-End+%26+Full-Stack+Developer;🚀+React+%7C+TypeScript+%7C+Next.js" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://github.com/PhongNguyen-1992/PhongNguyen-1992/blob/main/banner.png" alt="Phong Nguyen banner" />
+</p>
 
 ---
 
@@ -15,7 +13,7 @@
 ✨ Passionate about crafting modern, scalable web applications.  
 💼 Working at **FPT Telecom**  
 🧠 Skilled in **React**, **TypeScript**, **Tailwind**, **Next.js**, and **Node.js**  
-🌱 Currently exploring **NestJS** and **Cloud deployment**  
+🌱 Currently exploring **NestJS** and **Node.js** 
 ⚡ Love: performance optimization & clean UI  
 
 </div>
