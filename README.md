@@ -38,8 +38,10 @@
 
 | 🌟 Project | 🔎 Description | 🛠️ Tech |
 |-------------|----------------|----------|
-| [🧭 Ascent Project](https://github.com/PhongNguyen-1992/Ascent-Phong-Vinh) | Business dashboard with analytics and elegant UI. | React, TypeScript, Tailwind |
-| [⚙️ Tool Tra Cứu](https://github.com/PhongNguyen-1992/Tool_Tra_Cuu) | Smart utility tool for searching and managing data. | JavaScript, API, Bootstrap |
+| [🏨 Booking Hotel](https://github.com/PhongNguyen-1992/Aribnb_CSE/tree/main/AribnbCapstore) | A full-featured **hotel booking platform** inspired by Airbnb, with search, filter, and reservation features. | React, TypeScript, Tailwind, Node.js |
+| [🎬 Quickticket Cine](https://github.com/PhongNguyen-1992/Capstore_Type_V3) | A modern **movie ticket booking app** with seat selection, authentication, and responsive UI. | React, TypeScript, Redux, API |
+| [🧰 Tra Cứu Tool](https://github.com/PhongNguyen-1992/Tool_Tra_Cuu) | A simple yet powerful **daily work assistant** for quick tool lookup and task support. | JavaScript, HTML, TailwindCSS |
+
 
 ---
 
