@@ -34,11 +34,11 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-| 🌟 Project | 🔎 Description | 🛠️ Tech |
-|-------------|----------------|----------|
-| [🏨 Booking Hotel](https://github.com/PhongNguyen-1992/Aribnb_CSE/tree/main/AribnbCapstore) | A full-featured **hotel booking platform** inspired by Airbnb, with search, filter, and reservation features. | React, TypeScript, Tailwind, Node.js |
-| [🎬 Quickticket Cine](https://github.com/PhongNguyen-1992/Capstore_Type_V3) | A modern **movie ticket booking app** with seat selection, authentication, and responsive UI. | React, TypeScript, Redux, API |
-| [🧰 Tra Cứu Tool](https://github.com/PhongNguyen-1992/Tool_Tra_Cuu) | A simple yet powerful **daily work assistant** for quick tool lookup and task support. | JavaScript, HTML, TailwindCSS |
+| 🌟 Project | 🔎 Description | 🛠️ Tech | 🌐 Live Demo |
+|-------------|----------------|----------|---------------|
+| [🏨 Booking Hotel](https://github.com/PhongNguyen-1992/Aribnb_CSE/tree/main/AribnbCapstore) | A full-featured **hotel booking platform** inspired by Airbnb, with search, filter, and reservation features. | React, TypeScript, Tailwind, Node.js | [🔗 View Demo](https://aribnbcapstore.vercel.app](https://aribnb-cse-phong.vercel.app/Home)) |
+| [🎬 Quickticket Cine](https://github.com/PhongNguyen-1992/Capstore_Type_V3) | A modern **movie ticket booking app** with seat selection, authentication, and responsive UI. | React, TypeScript, Redux, API | [🔗 View Demo]([https://capstore-type-v3.vercel.app](https://pandamovies.vercel.app/)) |
+| [🧰 Tra Cứu Tool](https://github.com/PhongNguyen-1992/Tool_Tra_Cuu) | A simple yet powerful **daily work assistant** for quick tool lookup and task support.(Pass:6789) | JavaScript, HTML, TailwindCSS | [🔗 View Demo]([https://tool-tra-cuu.vercel.app](https://tool-tra-cuu.vercel.app/)) |
 
 
 ---
